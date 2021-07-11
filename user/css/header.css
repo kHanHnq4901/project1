@@ -1,0 +1,66 @@
+ .css-err {
+     border: 1;
+     color: red
+ }
+ 
+ .dang-ky {
+     background-color: pink;
+     width: 500px;
+     height: 300px;
+     border: auto solid grey;
+     border-radius: 10px;
+     text-align: center;
+ }
+ 
+ h3 {
+     color: #868787;
+     font-family: sans-serif;
+     text-align: center;
+ }
+ 
+ button {
+     width: 80px;
+     height: 30px;
+     margin-right: auto;
+     background: red;
+     border-radius: 5px;
+     color: seashell;
+ }
+ 
+ .login {
+     z-index: 1;
+     background-color: #fff;
+     width: auto;
+     height: auto;
+     border: 1px solid grey;
+     border-radius: 10px;
+     position: absolute;
+     top: 210px;
+     left: 30%;
+ }
+ 
+ .ip {
+     width: 200px;
+     height: 30px;
+     margin-bottom: 10px;
+     left: 100px;
+ }
+ 
+ form table tr td button {
+     width: 200px;
+     height: 40px;
+     margin-bottom: 10px;
+     background-color: g;
+ }
+ 
+ button:hover {
+     font-size: 15px;
+ }
+ 
+ span {
+     color: red;
+ }
+ 
+ h1 {
+     color: green;
+ }

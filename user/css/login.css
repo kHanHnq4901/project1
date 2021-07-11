@@ -1,0 +1,33 @@
+ .main {
+     position: relative;
+ }
+ 
+ .login {
+     position: absolute;
+     width: 300px;
+     height: 300px;
+     border: 1px solid grey;
+     border-radius: 10px;
+     text-align: center;
+     margin-left: 400px;
+     margin-top: 180px;
+ }
+ 
+ .ip {
+     width: 200px;
+     height: 40px;
+     margin-bottom: 10px;
+     background-color: g;
+ }
+ 
+ button:hover {
+     font-size: 15px;
+ }
+ 
+ span {
+     color: red;
+ }
+ 
+ h1 {
+     color: green;
+ }

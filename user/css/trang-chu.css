@@ -1,0 +1,147 @@
+   body {
+       padding: 0px;
+       margin: 0px;
+   }
+   
+   .trai {
+       width: 8%;
+       height: 1064px;
+       background-color: gray;
+   }
+   
+   .tong {
+       font-family: tahoma;
+       font-size: 16PX;
+       display: flex;
+   }
+   
+   .anh1 {
+       width: 50%;
+       height: 100px;
+       position: absolute;
+   }
+   
+   .giua {
+       width: 82%;
+       height: 800px;
+   }
+   
+   .header {
+       height: 100px;
+       background-color: white;
+       position: relative;
+   }
+   
+   .main {
+       width: 100%;
+       min-height: 800px;
+       height: auto;
+       background-color: white;
+   }
+   
+   .footer {
+       height: 100px;
+       background: #009cd7;
+   }
+   
+   body {
+       font-family: arial;
+       font-size: 15px;
+   }
+   
+   .thi6 {
+       clear: both;
+   }
+   
+   ul li {
+       list-style: none;
+   }
+   
+   .nd {
+       display: inline-flex;
+       margin-left: -40px;
+   }
+   
+   #thi {
+       width: 1100px;
+       margin: 0px auto;
+       background: #6d136a;
+   }
+   
+   #thi1 {
+       border-bottom: 1px solid #967a8a;
+       padding: 10px 0px;
+   }
+   
+   ul#thi4>li {
+       float: left;
+       position: relative;
+   }
+   
+   ul#thi4>li>a {
+       padding: 6px 15px;
+       text-decoration: none;
+       color: #fff;
+       display: block;
+   }
+   
+   ul#thi4>li>a:hover {
+       background: orange;
+       color: red;
+       transition: ease-in 0.60s;
+   }
+   
+   #thi1 img {
+       float: left;
+       width: 160px;
+   }
+   
+   ul#thi4>li:hover ul.con {
+       display: block;
+       transition: ease-out 0.60s;
+   }
+   
+   ul.con {
+       width: 250px;
+       background: #6d136a;
+       min-height: 100px;
+       display: none;
+       position: absolute;
+   }
+   
+   ul.con li {
+       list-style: none;
+   }
+   
+   ul.con li a {
+       color: #fff;
+       text-decoration: none;
+       display: block;
+       border-top: 1px solid #ccc;
+       line-height: 40px;
+       text-indent: 10px;
+   }
+   
+   ul.con li a:hover {
+       background: orange;
+       color: red;
+       transition: ease-in 0.60s;
+   }
+   
+   ul#thi4>li:hover ul.con {
+       display: block;
+   }
+   
+   .thi7 {
+       float: right;
+       color: #cff;
+   }
+   
+   a {
+       text-decoration: none;
+   }
+   
+   .img1 {
+       width: 260px;
+       height: 168px;
+   }
